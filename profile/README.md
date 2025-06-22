@@ -65,11 +65,17 @@ Product	Description	Status
 Have questions or want to discuss a project?
 
 <div align="left" style="display:flex; gap: 15px;">
-  <a href="https://www.linkedin.com/in/annastacia-mumbua/" style="text-decoration: none;">
-    <img width="45" height="45" src="https://img.icons8.com/3d-fluency/45/linkedin.png" alt="linkedin"/>
+    <a href="https://www.tiktok.com/qaya-creatives/" style="text-decoration: none;">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/40/tiktok.png" alt="tiktok"/>
   </a>
-  <a href='https:://annastacia.dev>' style="text-decoration: none;">
-    <img width="45" height="45" src="https://img.icons8.com/3d-fluency/45/link.png" alt="link"/>
+  <a href="https://www.x.com/qaya-creatives/" style="text-decoration: none;">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/40/x.png" alt="x"/>
+  </a>
+  <a href="https://www.linkedin.com/in/qaya-creatives/" style="text-decoration: none;">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/40/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href='https:://qayacreatives.com>' style="text-decoration: none;">
+    <img width="40" height="40" src="https://img.icons8.com/3d-fluency/40/link.png" alt="link"/>
   </a>
 </div>
 
