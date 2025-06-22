@@ -6,7 +6,7 @@
   
 [![Qaya Creatives](https://img.shields.io/badge/Qaya_Creatives-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://qayacreatives.com)
 [![SaaS Products](https://img.shields.io/badge/Specializing_in-SaaS_Products-%2342a5f5.svg?style=for-the-badge)](https://qayacreatives.com/products)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-React%20|%20Node%20|%20AWS-%23f06292.svg?style=for-the-badge)](https://qayacreatives.com/technology)
+
 
 </div>
 
@@ -23,14 +23,14 @@ graph LR
 
 ```
 
-🛠 Our SaaS Products
-<div align="center">
+## 🛠 Our SaaS Products
+<div align="">
 Product	Description	Status
-https://img.shields.io/badge/QayaFlow-Workflow_Automation-%2523007ACC.svg?style=flat-square	AI-powered workflow automation	https://img.shields.io/badge/-Live-brightgreen
-https://img.shields.io/badge/QayaMetrics-Business_Analytics-%2523FF6D00.svg?style=flat-square	Real-time business analytics dashboard	https://img.shields.io/badge/-Beta-yellow
-https://img.shields.io/badge/QayaConnect-Team_Collaboration-%25236E40C9.svg?style=flat-square	All-in-one team collaboration suite	https://img.shields.io/badge/-Coming_Soon-blue
+
+
 </div>
-🚀 Why Choose Qaya Creatives?
+
+## 🚀 Why Choose Qaya Creatives?
 🔥 Cutting-edge Technology: We use the latest tech stack to build scalable solutions
 
 🎨 Beautiful UI/UX: Our products are designed for maximum usability
@@ -41,41 +41,37 @@ https://img.shields.io/badge/QayaConnect-Team_Collaboration-%25236E40C9.svg?styl
 
 🌍 Cloud-native: Access your tools from anywhere
 
-💻 Tech Stack
-<div align="center">
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Docker-%25232496ED.svg?style=for-the-badge&logo=docker&logoColor=white
 
-</div>
-📈 Our Development Process
-Discovery Phase: Understanding client needs
+## 💻 Tech Stack
 
-Prototyping: Rapid concept development
+<img  src="https://skillicons.dev/icons?i=laravel,php,js,ts,react,nextjs,redux,jquery,postgres,sqlite,mongodb,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 500px" />
 
-Agile Development: Two-week sprints
 
-QA Testing: Rigorous quality assurance
+## 📈 Our Development Process
+- Discovery Phase: Understanding client needs
 
-Deployment: Smooth rollout
+- Prototyping: Rapid concept development
 
-Maintenance: Ongoing support and updates
+- Agile Development: Two-week sprints
 
-🤝 Get Involved
-<div align="center">
-https://img.shields.io/badge/Slack_Qaya_Community-4A154B?style=for-the-badge&logo=slack&logoColor=white
-https://img.shields.io/badge/Partner_With_Us-%252302569B.svg?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/We're_Hiring!-%2523007ACC.svg?style=for-the-badge&logo=microsoft-academic&logoColor=white
+- QA Testing: Rigorous quality assurance
 
-</div>
-📬 Contact Us
+- Deployment: Smooth rollout
+
+- Maintenance: Ongoing support and updates
+
+
+## 📬 Contact Us
 Have questions or want to discuss a project?
 
-https://img.shields.io/badge/Email-info%2540qayacreatives.com-%2523D14836.svg?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Schedule_Call-%25238A2BE2.svg?style=for-the-badge
-https://img.shields.io/badge/Twitter-%25231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+<div align="left" style="display:flex; gap: 15px;">
+  <a href="https://www.linkedin.com/in/annastacia-mumbua/" style="text-decoration: none;">
+    <img width="45" height="45" src="https://img.icons8.com/3d-fluency/45/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href='https:://annastacia.dev>' style="text-decoration: none;">
+    <img width="45" height="45" src="https://img.icons8.com/3d-fluency/45/link.png" alt="link"/>
+  </a>
+</div>
 
-📄 License
+## 📄 License
 All our core products are MIT Licensed.
